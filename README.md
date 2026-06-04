@@ -61,3 +61,5 @@ I'm Nethical, born and raised in the Indo-Himalayan foothills. Art and science a
 Putting code aside, I have a keen interest in reading books and making music. Unlike most kids I've seen, I never had a subject in school that I found "boring," which probably reflects my current self accurately. I spend most of my time reading papers and attending lectures on psychology, philosophy, or other random, interesting stuff.
 
 Hit me up on my socials on the side to make friends!
+
+<img src="IMG_20250923_050138557_MFNR.jpg" style="height:auto; width:25vw;">
