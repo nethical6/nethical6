@@ -21,7 +21,7 @@ classDiagram
         Questphone
         Trease
         ... and more
-    }
+    }  
     class Hobbies {
         +Codes
         +Makes Music
@@ -42,8 +42,8 @@ classDiagram
 
     class LastRead["Last Read 🗒"] {
         The Stranger
-        Kafka on the shore
-        Norwegian Wood
+        White Nights
+        Crime and Punishment
     }
 
     Nethical --|> Projects : Codes
@@ -54,3 +54,10 @@ classDiagram
     Hobbies ..|> Music : plays
     Hobbies ..|> LastRead
 ```
+
+## Who am i?
+I'm Nethical, born and raised in the Indo-Himalayan foothills. Art and science always fascinated me as a kid, and I spent most of my time fervently learning new things. The first programming language I learned was BASIC, driven by pure curiosity while flipping through my elder sibling's textbooks as an 8-year-old. Ever since then, I've built numerous programs. I also tinker with hardware and IoT when I'm bored.
+
+Putting code aside, I have a keen interest in reading books and making music. Unlike most kids I've seen, I never had a subject in school that I found "boring," which probably reflects my current self accurately. I spend most of my time reading papers and attending lectures on psychology, philosophy, or other random, interesting stuff.
+
+Hit me up on my socials on the side to make friends!
