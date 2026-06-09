@@ -12,7 +12,7 @@ classDiagram
 ⠛⠒⠛⠉⠉⠀⠀⠀⣴⠟⢃⡴⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-        me@nethical: echo "I'm 17 yo" 
+        me@nethical: echo "I'm 18 yo" 
     }
     class Projects {
         Digipaws
@@ -63,3 +63,20 @@ Putting code aside, I have a keen interest in reading books and making music. Un
 Hit me up on my socials on the side to make friends!
 
 <img src="IMG_20250923_050138557_MFNR.jpg" style="height:auto; width:25vw;">
+
+## Creations
+### Digipaws/Curbox > 
+- The most feature-rich app blocker on the internet. Backed by real psychology.
+- Invented a mechanism to count the number of short form content you scroll in real time to promote mindfulness.
+
+### Questphone >
+- A habit tracker cum launcher that uses gamification to both promote good habits and reduce screentime
+- Chronologically the first to introduce a mechanism that rewards screentime for being productive (like touching grass, doing pushups etc)
+
+### Trease >
+- A free and open source alternative to Forest Focus
+- All tree assets were designed manually by me
+
+### Bryte >
+- An ai tool that converts your notes into an interactive questionare with a UI and dopamine loop similar to tiktok
+
