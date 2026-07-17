@@ -62,7 +62,7 @@ Putting code aside, I have a keen interest in reading books and making music. Un
 
 Hit me up on my socials on the side to make friends!
 
-<img src="IMG_20250923_050138557_MFNR.jpg" style="height:auto; width:25vw;">
+<img src="IMG_20250923_050138557_MFNR.jpg" style="height:auto; width:10vw;">
 
 ## Creations
 ### Digipaws/Curbox > 
