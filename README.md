@@ -19,7 +19,6 @@ classDiagram
         Bryte
         Trease
         Questphone
-        Trease
         ... and more
     }  
     class Hobbies {
@@ -64,10 +63,15 @@ Hit me up on my socials on the side to make friends!
 
 <img src="IMG_20250923_050138557_MFNR.jpg" style="height:auto; width:10vw;">
 
+[Like my work? Donate me <3](https://curbox.app/donate)
+
 ## Creations
 ### Digipaws/Curbox > 
 - The most feature-rich app blocker on the internet. Backed by real psychology.
 - Invented a mechanism to count the number of short form content you scroll in real time to promote mindfulness.
+
+### Conversation-Steganography >
+-  a simple proof of concept i made to demonstrate how llms can be used to hide messages into normal looking coherent conversations
 
 ### Questphone >
 - A habit tracker cum launcher that uses gamification to both promote good habits and reduce screentime
@@ -78,4 +82,4 @@ Hit me up on my socials on the side to make friends!
 - All tree assets were designed manually by me
 
 ### Bryte >
-- An ai tool that converts your notes into an interactive questionare with a UI and dopamine loop similar to tiktok. Built in collaboration with [@InvokeVirtual](https://github.com/PranavPurwar)
+- An ai tool that converts your notes into an interactive questionare with a UI and dopamine loop similar to tiktok. 
